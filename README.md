@@ -1,0 +1,2 @@
+# -Healthcare-Analytics-Project-using-the-MIMIC-Medical-Information-Mart-for-Intensive-Care-Dataset
+Performed Exploratory Data Analysis (EDA) on the MIMIC healthcare dataset using Python, Pandas, and Matplotlib. Cleaned and preprocessed patient data, analyzed demographics, hospital/ICU stay patterns, and created visualizations to uncover insights. Strengthened skills in data cleaning, EDA, visualization, and healthcare analytics..
